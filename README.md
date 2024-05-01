@@ -59,6 +59,10 @@ To run my application you simply need to clone the project and run the file.
 
 To run the project run local server.
 
+### Project Image
+![Calculator](https://github.com/rahuljain95/Calculator-React/assets/122991703/e665d897-aa96-4d09-9020-10428c4de0b3)
+
+
 
 
 
