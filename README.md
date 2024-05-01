@@ -49,8 +49,9 @@ it is useful for simple calculations.
 
 ### Built With
 
-1. React
-2. Bootstrap
+# Language : JavaScript
+# JavaScript Library : React.js
+# CSS Framework : Bootstrap
 
 
 ### How to Run?
