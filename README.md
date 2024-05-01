@@ -1,8 +1,65 @@
-# React + Vite
+# Calculator - React 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Setup Instruction
 
-Currently, two official plugins are available:
+1.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+git clone https://github.com/rahuljain95/Calculator-React.git
+```
+
+2. Move into the directory
+
+```
+cd calculator
+```
+
+3. install dependencies
+
+```
+npm i
+```
+
+4. run the server
+
+```
+npm run dev
+```
+
+### Setup Instruction for Bootstrap
+
+1. Install Bootstrap
+
+```
+npm i bootstrap@5.3.3
+```
+
+### Why use it?
+
+it is useful for simple calculations.
+
+
+### Features
+
+1. Addition (+)
+2. Subtraction (-)
+3. Multiplication (*)
+4. Division (/)
+
+
+### Built With
+
+1. React
+2. Bootstrap
+
+
+### How to Run?
+
+To run my application you simply need to clone the project and run the file.
+
+To run the project run local server.
+
+
+
+
+
