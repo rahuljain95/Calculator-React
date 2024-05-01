@@ -62,6 +62,12 @@ To run the project run local server.
 ### Project Image
 ![Calculator](https://github.com/rahuljain95/Calculator-React/assets/122991703/e665d897-aa96-4d09-9020-10428c4de0b3)
 
+### Project Vedio
+https://github.com/rahuljain95/Calculator-React/assets/122991703/e42fc902-ab00-4c4c-941d-7741a3796845
+
+
+
+
 
 
 
